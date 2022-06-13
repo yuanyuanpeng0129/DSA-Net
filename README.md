@@ -1,1 +1,1 @@
-The code will be released when the paper is published.
+Attention Fusion Enhancement Network (AFENet).
